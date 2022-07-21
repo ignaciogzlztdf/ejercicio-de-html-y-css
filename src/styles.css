@@ -1,0 +1,16 @@
+* {
+  font-family: "Tahoma 12";
+}
+body {
+  background-color: gray;
+}
+.centrado {
+  display: flex;
+  justify-content: center;
+}
+.negrita {
+  font-weight: bold;
+}
+p {
+  text-align: justify;
+}
